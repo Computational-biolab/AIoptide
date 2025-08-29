@@ -5,7 +5,7 @@ It integrates **AI-based virtual screening, stability filtering, structural mode
 
 ---
 
-## 🚀 Workflow Modules  
+## Workflow Modules  
 
 1. **Peptide Library Generation**  
    Create large-scale peptide libraries (thousands to millions of variants) via class-wise or all-residue mutagenesis.  
@@ -25,7 +25,7 @@ It integrates **AI-based virtual screening, stability filtering, structural mode
 
 ---
 
-## 📂 Case Studies  
+## Case Studies  
 
 AIoptide was validated across **four experimentally resolved protein–peptide complexes**:  
 
