@@ -44,7 +44,7 @@ Each case study folder in this repository contains:
 
 ---
 
-## ⚙️ How to Run  
+## How to Run  
 
 Clone the repository:  
 
