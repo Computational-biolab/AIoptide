@@ -52,6 +52,9 @@ Clone the repository:
 git clone https://github.com/Computational-biolab/AIoptide.git
 cd AIoptide
 
+
+## Citation
 PBEE reference:
+
 Chaves, E. J. F., et al. Estimating absolute protein–protein binding free energies by a super learner model.
 J. Chem. Inf. Model. (2025).
