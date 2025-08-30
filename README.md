@@ -38,8 +38,7 @@ Each case study folder in this repository contains:
 - Generated peptide libraries  
 - PepCNN screening results  
 - GRAVY stability analysis  
-- Structural models (CHIMERA_AA)  
-- MD trajectories (AMBER24)  
+- Structural models (CHIMERA_AA)   
 - PBEE binding affinity predictions  
 
 ---
